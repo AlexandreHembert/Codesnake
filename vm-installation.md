@@ -1,4 +1,4 @@
-# Initial page
+# VM installation
 
 ## Getting Super Powers
 
